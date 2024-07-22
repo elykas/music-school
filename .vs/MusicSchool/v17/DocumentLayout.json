@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\model\\instrumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\model\\instrumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\model\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\musicschool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{659B24FC-2D24-4B53-8EF4-59CB39FFDE9C}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstrumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Model\\InstrumentModel.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Model\\InstrumentModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Model\\InstrumentModel.cs",
+              "RelativeToolTip": "MusicSchool\\Model\\InstrumentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:03:27.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Service\\MusicSchoolService.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Service\\MusicSchoolService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Service\\MusicSchoolService.cs",
+              "RelativeToolTip": "MusicSchool\\Service\\MusicSchoolService.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:28:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Model\\StudentModel.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Model\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Model\\StudentModel.cs",
+              "RelativeToolTip": "MusicSchool\\Model\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:21:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Configuration\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Configuration\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Configuration\\AppConfiguration.cs",
+              "RelativeToolTip": "MusicSchool\\Configuration\\AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:18:13.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Form1.cs",
+              "RelativeToolTip": "MusicSchool\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicSchool\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\MusicSchool\\MusicSchool\\Form1.cs [Design]",
+              "RelativeToolTip": "MusicSchool\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:39.097Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

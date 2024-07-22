@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<musicSchool>
+  <classRoom name="guitar jazz" teacher="alef" student="omer">
+    <teacher name="enosh">alef</teacher>
+    <teacher name="enosh" />
+    <teacher name="enosh" />
+    <student name="leizer">
+      <instrument>violino</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+    <student name="leizer">
+      <instrument>guitar</instrument>
+    </student>
+  </classRoom>
+</musicSchool>
