@@ -175,6 +175,10 @@ namespace MusicSchool.Service
 
         }
 
+        public static void enosh()
+        {
+            Console.WriteLine("hhhh");
+        }
 
 
 
